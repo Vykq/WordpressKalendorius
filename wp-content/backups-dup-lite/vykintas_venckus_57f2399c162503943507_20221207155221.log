@@ -1,0 +1,74 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 7, 2022 3:52 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.1
+WORDPRESS:	6.1.1
+PHP INFO:	7.4.1 | SAPI: cgi-fcgi
+SERVER:		nginx/1.16.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: vykintas_venckus_57f2399c162503943507_20221207155221_database.sql
+SQL FILE SIZE: 930.45KB (952778)
+SQL FILE TIME: 2022-12-07 15:52:26
+SQL RUNTIME: 0.67 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/vykin.VYK/Local Sites/expertmedia/app/public
+ARCHIVE FILE: vykintas_venckus_57f2399c162503943507_20221207155221_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	80.06MB
+STATS:	Dirs 545 | Files 4,025
+SQL ADDED: vykintas_venckus_57f2399c162503943507_20221207155221_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4570
+    [filename] => C:\Users\vykin.VYK\Local Sites\expertmedia\app\public\wp-content\backups-dup-lite\tmp\vykintas_venckus_57f2399c162503943507_20221207155221_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4569
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 28.85MB
+ARCHIVE RUNTIME: 29.36 sec.
+MEMORY STACK: 4MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 930.45KB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 30.67MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,570
+ACTUAL FILE/DIRECTORY COUNT: 4,569
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 31.14 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => vykintas_venckus December 7, 2022 3:52 pm
+
